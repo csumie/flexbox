@@ -2,7 +2,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('../img/wow.png') bottom center no-repeat;
+  background: url('../img/wow.png') center center no-repeat;
   background-size: cover;
   font-size: 1em;
 }
@@ -11,6 +11,7 @@ body {
   padding: 0 3.125em;
   font-family:'Montserrat', sans-serif;
   background: #f16059;
+  background-position: center center;
 }
 
 h1 {
